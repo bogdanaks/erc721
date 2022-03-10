@@ -1,6 +1,4 @@
 import { NFT__factory, NFT } from "./../typechain/index";
-// import { expect } from "chai";
-// import { parseEther } from "ethers/lib/utils";
 import { ethers } from "hardhat";
 import { SignerWithAddress } from "@nomiclabs/hardhat-ethers/signers";
 
