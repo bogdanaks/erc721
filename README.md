@@ -1,6 +1,6 @@
 # Advanced Sample Hardhat Project
 
-ERC1155 deployed to: 0x61E487526792df2AD5b6D20d06059Dd0A13f74C2
+ERC721 deployed to: 0x61E487526792df2AD5b6D20d06059Dd0A13f74C2
 Owner address is: 0x0d637904305685c537494b96E74a0C0a4D1C647f
 
 Try running some of the following tasks:
